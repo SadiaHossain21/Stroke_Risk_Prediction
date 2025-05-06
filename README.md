@@ -52,6 +52,7 @@ The target variable is whether the patient has had a stroke.
 ## Objective
 
 The aim is to build an accurate and interpretable model that can help flag individuals at higher risk of stroke for early medical intervention. Here I focused on **Recall** and **ROC-AUC** rather than **Accuracy**. **Recall** tells how many actual positive cases a model correctly predicted. 
+
 **Formula**
 <pre> Recall = True Positives (TP) / [True Positives (TP) + False Negatives (FN)] </pre>
 - True Positives (TP): Correctly predicted positives
