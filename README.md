@@ -34,6 +34,7 @@ jupyter notebook stroke-risk-prediction.ipynb
 3. Run all cells in order.
 4. Note - **I have attached a seperate dataset. If anyone wants to use that dataset, it's needed to change the section of the notebook ***Loading Dataset***.**
 **(e.g., data = pd.read_csv('stroke-data.csv')**
+
 **Another point to be noted that, if anyone use Jupyter notebook, the package ***pip install imbalanced-learn*** is needed to run in the terminal**
 
 ## Dataset
